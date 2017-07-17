@@ -1,2 +1,3 @@
 Branches test file
-this is a test in Master
+This is another test in the bug-fix branch
+
