@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <title>Day 1</title>
+    </head>
+    <body>
+      <header>
+        <h1>Day 1 of The Iron Yard</h1>
+        <img src="http://d1v8u1ev1s9e4n.cloudfront.net/55f03741067d7b33bc1fc584" alt="the ocean"/>
+        <time>07/17/2017</time>
+        <img src="http://i.imgur.com/lir6E.gif" alt="the ocean"/>
+      </header>
+      <main>
+        <p>"Today we hit the ground running!  We started by figuring out how to use git and github.  Turns out these are two separate things.  I struggled through github the most today.  We followed github up with learning a little more about how html and css work together.  Needless to say, my brain is mush after Day 1."</p>
+        <h2>Accomplishments</h2>
+        <ul>
+        <li>GitHub</li>
+        <li>Lunch</li>
+        <li>HTML meets CSS</li>
+        </ul>
+      </main>
+      <footer>
+        <p><h6>P.S. I haven't really learned CSS... We just kinda talked about it.  Please don't judge this website for its lack of CSS input.</h6></p>
+      </footer>
+    </body>
+</html>
